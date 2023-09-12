@@ -11,5 +11,10 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "nuxt": "^3.7.1"
+  },
+  "dependencies": {
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
+    "vuex": "^4.0.2"
   }
 }
